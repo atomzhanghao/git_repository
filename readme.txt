@@ -8,3 +8,5 @@ git tracks changes three
 create branch dev
 modified remote repository url
 user --no-ff
+conflict2
+conflict1
