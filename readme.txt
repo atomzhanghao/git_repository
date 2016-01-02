@@ -7,6 +7,7 @@ git tracks changes two
 git tracks changes three
 create branch dev
 modified remote repository url
+user --no-ff
 conflict2
 conflict1
-user --no-ff
+--no-ff
