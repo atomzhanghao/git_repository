@@ -11,3 +11,4 @@ user --no-ff
 conflict2
 conflict1
 --no-ff
+--no-ff2
