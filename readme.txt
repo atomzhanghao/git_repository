@@ -9,3 +9,4 @@ create branch dev
 modified remote repository url
 conflict2
 conflict1
+user --no-ff
