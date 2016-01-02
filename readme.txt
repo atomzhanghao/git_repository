@@ -8,3 +8,4 @@ git tracks changes three
 create branch dev
 modified remote repository url
 conflict2
+conflict1
