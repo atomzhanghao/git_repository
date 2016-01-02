@@ -13,3 +13,4 @@ conflict1
 --no-ff
 --no-ff2
 i change
+friends change
