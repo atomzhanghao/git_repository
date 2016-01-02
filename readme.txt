@@ -12,3 +12,5 @@ conflict2
 conflict1
 --no-ff
 --no-ff2
+stash and fix bug 2
+new feature
